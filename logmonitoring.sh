@@ -1,5 +1,3 @@
-bash
-Copy code
 #!/bin/bash
 
 # Path to the log file you want to monitor
